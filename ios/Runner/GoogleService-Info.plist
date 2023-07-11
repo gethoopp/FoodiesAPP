@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>3752012208-qc8vmv9eio48igu0hongbqask5gl3a7h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.3752012208-qc8vmv9eio48igu0hongbqask5gl3a7h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAWKo4hHusUpOE8_LdgZV5nkS6FvHuHgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3752012208</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.habit</string>
+	<key>PROJECT_ID</key>
+	<string>foodies2-57e85</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodies2-57e85.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3752012208:ios:aeb61bc2f48176e3ca8e75</string>
+</dict>
+</plist>

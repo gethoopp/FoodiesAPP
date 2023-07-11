@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3752012208",
+    "project_id": "foodies2-57e85",
+    "storage_bucket": "foodies2-57e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3752012208:android:d75d9357323c3c50ca8e75",
+        "android_client_info": {
+          "package_name": "com.example.habit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3752012208-hs9lb6gfnq304ok65n5nv8k59cdh0dmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVPrlTrEdum5sh8VSgTZxxR10xCw9gfbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3752012208-hs9lb6gfnq304ok65n5nv8k59cdh0dmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
